@@ -1,6 +1,6 @@
-package introsde.document.ws;
+package introsde.auth.ws;
 
-import introsde.document.model.Activities;
+import introsde.wrapper.model.Activities;
 
 import java.util.List;
 

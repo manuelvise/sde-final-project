@@ -1,7 +1,7 @@
-package introsde.document.ws;
+package introsde.auth.ws;
 
-import introsde.document.model.Activities;
-import introsde.document.util.HttpGetRequestRK;
+import introsde.wrapper.model.Activities;
+import introsde.wrapper.util.HttpGetRequestRK;
 
 import java.io.BufferedReader;
 import java.io.DataOutputStream;

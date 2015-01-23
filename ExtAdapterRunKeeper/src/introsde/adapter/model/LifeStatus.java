@@ -1,10 +1,14 @@
-package introsde.document.model;
+package introsde.adapter.model;
 
 
-import introsde.document.model.MeasureDefinition;
+import introsde.wrapper.model.MeasureDefinition;
+import introsde.wrapper.model.Person;
 
 import java.io.Serializable;
 import java.util.List;
+
+
+
 
 
 import javax.xml.bind.annotation.XmlRootElement;

@@ -1,10 +1,11 @@
-package introsde.document.model;
+package introsde.adapter.model;
 
 
-import introsde.document.model.MeasureDefaultRange;
+import introsde.wrapper.model.MeasureDefaultRange;
 
 import java.io.Serializable;
 import java.util.List;
+
 import javax.xml.bind.annotation.XmlRootElement;
 
 

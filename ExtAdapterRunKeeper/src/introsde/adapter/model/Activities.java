@@ -1,4 +1,6 @@
-package introsde.document.model;
+package introsde.adapter.model;
+
+import introsde.wrapper.model.ItemActivity;
 
 import java.util.List;
 
@@ -6,7 +8,7 @@ public class Activities {
 
 	private int size;
 	
-	private List<Item> items;
+	private List<ItemActivity> items;
 	
 	public Activities() {
 		// TODO Auto-generated constructor stub
@@ -20,11 +22,11 @@ public class Activities {
 		this.size = size;
 	}
 
-	public List<Item> getItems() {
+	public List<ItemActivity> getItems() {
 		return items;
 	}
 
-	public void setItems(List<Item> items) {
+	public void setItems(List<ItemActivity> items) {
 		this.items = items;
 	}
 	

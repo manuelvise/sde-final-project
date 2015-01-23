@@ -1,4 +1,4 @@
-package introsde.document.util;
+package introsde.auth.util;
 
 import java.io.BufferedReader;
 import java.io.IOException;

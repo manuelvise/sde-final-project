@@ -1,8 +1,8 @@
-package introsde.document.model;
+package introsde.adapter.model;
 
 import java.util.Date;
 
-public class Item {
+public class ItemActivity {
 
 	private String type;
 	private String start_time;
@@ -15,7 +15,7 @@ public class Item {
 	private Boolean has_path;
 	private String uri;
 	
-	public Item() {
+	public ItemActivity() {
 		// TODO Auto-generated constructor stub
 	}
 

@@ -1,4 +1,6 @@
-package introsde.document.model;
+package introsde.adapter.model;
+
+import introsde.wrapper.model.MeasureDefinition;
 
 public class Measure {
 	private String value;

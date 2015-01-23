@@ -1,9 +1,10 @@
-package introsde.document.model;
+package introsde.adapter.model;
 
 
-import introsde.document.model.LifeStatus;
+import introsde.wrapper.model.LifeStatus;
 
 import java.io.Serializable;
+
 import javax.xml.bind.annotation.XmlElementWrapper;
 import javax.xml.bind.annotation.XmlRootElement;
 
